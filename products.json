@@ -1,0 +1,46 @@
+[
+  { "name": "Laptop", "category": "Electronics", "price": 55000, "stock": 20, "brand": "Dell", "rating": 4.5 },
+  { "name": "Smartphone", "category": "Electronics", "price": 25000, "stock": 50, "brand": "Samsung", "rating": 4.4 },
+  { "name": "Headphones", "category": "Electronics", "price": 3000, "stock": 100, "brand": "Boat", "rating": 4.2 },
+  { "name": "Bluetooth Speaker", "category": "Electronics", "price": 4500, "stock": 40, "brand": "JBL", "rating": 4.6 },
+  { "name": "Smart Watch", "category": "Electronics", "price": 8000, "stock": 35, "brand": "Noise", "rating": 4.1 },
+
+  { "name": "Men T-Shirt", "category": "Clothing", "price": 799, "stock": 120, "brand": "Puma", "rating": 4.3 },
+  { "name": "Women Kurti", "category": "Clothing", "price": 1299, "stock": 90, "brand": "Biba", "rating": 4.5 },
+  { "name": "Jeans", "category": "Clothing", "price": 1999, "stock": 60, "brand": "Levis", "rating": 4.4 },
+  { "name": "Jacket", "category": "Clothing", "price": 2999, "stock": 45, "brand": "Roadster", "rating": 4.2 },
+  { "name": "Shoes", "category": "Footwear", "price": 3499, "stock": 70, "brand": "Nike", "rating": 4.6 },
+
+  { "name": "Sports Shoes", "category": "Footwear", "price": 3999, "stock": 55, "brand": "Adidas", "rating": 4.7 },
+  { "name": "Sandals", "category": "Footwear", "price": 1499, "stock": 80, "brand": "Bata", "rating": 4.1 },
+  { "name": "Formal Shoes", "category": "Footwear", "price": 2799, "stock": 50, "brand": "Clarks", "rating": 4.3 },
+
+  { "name": "Office Chair", "category": "Furniture", "price": 8500, "stock": 25, "brand": "Godrej", "rating": 4.4 },
+  { "name": "Study Table", "category": "Furniture", "price": 6500, "stock": 30, "brand": "Ikea", "rating": 4.5 },
+  { "name": "Sofa Set", "category": "Furniture", "price": 32000, "stock": 10, "brand": "Urban Ladder", "rating": 4.6 },
+  { "name": "Bed", "category": "Furniture", "price": 28000, "stock": 12, "brand": "Wakefit", "rating": 4.7 },
+
+  { "name": "Notebook", "category": "Stationery", "price": 60, "stock": 300, "brand": "Classmate", "rating": 4.5 },
+  { "name": "Pen", "category": "Stationery", "price": 20, "stock": 500, "brand": "Reynolds", "rating": 4.3 },
+  { "name": "Backpack", "category": "Stationery", "price": 1499, "stock": 65, "brand": "Wildcraft", "rating": 4.6 },
+
+  { "name": "Mixer Grinder", "category": "Home Appliances", "price": 4200, "stock": 35, "brand": "Philips", "rating": 4.4 },
+  { "name": "Microwave Oven", "category": "Home Appliances", "price": 12000, "stock": 20, "brand": "LG", "rating": 4.5 },
+  { "name": "Refrigerator", "category": "Home Appliances", "price": 26000, "stock": 15, "brand": "Whirlpool", "rating": 4.6 },
+  { "name": "Washing Machine", "category": "Home Appliances", "price": 22000, "stock": 18, "brand": "IFB", "rating": 4.5 },
+
+  { "name": "Cooking Oil", "category": "Grocery", "price": 180, "stock": 200, "brand": "Fortune", "rating": 4.4 },
+  { "name": "Rice", "category": "Grocery", "price": 65, "stock": 250, "brand": "India Gate", "rating": 4.6 },
+  { "name": "Wheat Flour", "category": "Grocery", "price": 55, "stock": 300, "brand": "Aashirvaad", "rating": 4.5 },
+  { "name": "Sugar", "category": "Grocery", "price": 45, "stock": 280, "brand": "Tata", "rating": 4.3 },
+  { "name": "Tea Powder", "category": "Grocery", "price": 160, "stock": 150, "brand": "Tata Tea", "rating": 4.4 },
+
+  { "name": "Face Wash", "category": "Personal Care", "price": 249, "stock": 120, "brand": "Nivea", "rating": 4.3 },
+  { "name": "Shampoo", "category": "Personal Care", "price": 399, "stock": 110, "brand": "Dove", "rating": 4.4 },
+  { "name": "Toothpaste", "category": "Personal Care", "price": 120, "stock": 200, "brand": "Colgate", "rating": 4.5 },
+  { "name": "Soap", "category": "Personal Care", "price": 45, "stock": 300, "brand": "Lux", "rating": 4.2 },
+
+  { "name": "Water Bottle", "category": "Accessories", "price": 499, "stock": 90, "brand": "Milton", "rating": 4.4 },
+  { "name": "Sunglasses", "category": "Accessories", "price": 1599, "stock": 40, "brand": "Fastrack", "rating": 4.3 },
+  { "name": "Wallet", "category": "Accessories", "price": 999, "stock": 60, "brand": "Tommy Hilfiger", "rating": 4.6 }
+]
